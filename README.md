@@ -16,3 +16,12 @@ However these also work:
 * https://www.spigotmc.org/resources/musicbox-custom-noteblockmusic-on-discs.67949/
 * https://www.spigotmc.org/resources/battlemusic-1-12-1-18.73435/
 * https://www.spigotmc.org/resources/advancednbs.81195/
+
+
+
+#
+This database is a fork of:
+* https://github.com/thatcraniumguy/Songs
+* https://github.com/drewdorris/powder-resources/tree/master
+
+These are no longer maintained so I have decided to fork them and continue on providing support and adding songs. 
