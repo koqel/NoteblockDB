@@ -1,4 +1,4 @@
-# Noteblock-Songs
+# NoteblockDB
 A database of Minecraft Noteblock songs 
 
 * This database has been put together by koqel (Colton).
